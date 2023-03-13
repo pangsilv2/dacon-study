@@ -1,0 +1,5 @@
+[Numerical Data vs Categorical Data]
+수치형 자료 - 수로 측정값으로 수치적 값 도출  ---> Regression (회귀)
+ex) 야구타자의 타율 예측. 투수의 방어율
+범주형 자료 - 수로 측정 불가하며 상반 또는 다른 범주의 값으로 구별하여 도출   ---> Classificatio (분류) 
+ex) 전년대비 프로팀의 순위 상승 하락 변동 
