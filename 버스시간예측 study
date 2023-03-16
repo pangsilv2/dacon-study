@@ -1,0 +1,6 @@
+tolist : array 를 list 로 변환
+
+re[['avg','ops']].value.tolist()
+
+value : 데이터 값 추출  ,  index : 데이터 인덱스값 추출
+
